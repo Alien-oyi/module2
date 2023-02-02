@@ -74,7 +74,7 @@
   .BG {
       height: 400px;
       background-image: url("../images/hd.jpg");
-      background-size: cover;
+      background-size:cover;
       background-position: center;
       display: flex;
       justify-content: flex-end;
@@ -141,12 +141,13 @@
   }
   
 .step-text p {
+    display:flex;
     color: var(--primary-color);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
     text-align: justify;
     line-height: 1.8;
-    margin-left: 30px;
+    margin-left: 20px;
     width: 100%;
     order:1;
   }
