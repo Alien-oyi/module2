@@ -79,16 +79,15 @@
       display: flex;
       justify-content: flex-end;
       flex-wrap: wrap;
-      position: relative;
+      
   }
   
   /*Add employees photo*/
-  .image2 {
-    align-items: center;
-    border:3px solid #39a6b2;
-    margin-left:40px;
-    height:180px;
-    width: 150px;
+  .flex {
+    display: flex;
+    max-width: 150px;
+    box-shadow: 10px 10px 10px black;
+
   }
 
   .BG h2 {
@@ -118,6 +117,7 @@
 .section-title {
     font-size: 35px;
     font-family:cursive;
+    align-items: center;
     color: #024e76;
     margin: 0 0 0 80px;
     width: 50%;
@@ -148,6 +148,7 @@
     line-height: 1.8;
     margin-left: 30px;
     width: 100%;
+    order:1;
   }
   
 .vl-border2{
