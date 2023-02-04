@@ -14,4 +14,4 @@ Watched some sample,picked gallery as my main work class,used 2\*2 space for fir
 Finished footer class,did a lot of adjustion,still a lot of space on the right part,
 Use the aside class from last module,changed some content.
 
-changed portfolio image to flex,trying to be more global.
+changed portfolio image to flex we just learn,add box-shadow looks nice.

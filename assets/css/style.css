@@ -182,6 +182,7 @@
   
 .gallery_item{
   position: relative;
+  box-shadow: 10px 10px 10px black;
 }
 .gallery_img {
   width: 100%;
